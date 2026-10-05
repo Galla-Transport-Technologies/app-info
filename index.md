@@ -1,4 +1,7 @@
-# Galla Transport Technologies LLC
+<p align="center">
+<img src="GTT_sm.jpg" alt="Galla Transport Technologies" width="180">
+</p>
+<h1 align="center"><strong>Galla Transport Technologies LLC</strong></h1>
 
 Modern hardware and software logistics solutions engineered for school transportation, student accountability, and fleet operations.
 
