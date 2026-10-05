@@ -1,0 +1,10 @@
+---
+---
+
+// Brand color overrides
+$header-bg-color: #8B0000;              // Deep red
+$header-bg-color-secondary: #1a1a1a;    // Dark charcoal / black
+$section-headings-color: #8B0000;       // Red section titles
+$body-link-color: #b30000;              // Red links
+
+@import "{{ site.theme }}";
