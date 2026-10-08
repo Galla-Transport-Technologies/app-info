@@ -7,3 +7,4 @@ github:
 plugins:
   - jekyll-sitemap
 url: "https://galla-transport-technologies.github.io"
+include: ['sitemap.xsl']
