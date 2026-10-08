@@ -1,7 +1,8 @@
 <p align="center">
 <img src="GTT_sm.jpg" alt="Galla Transport Technologies" width="180">
 </p>
-<h1 align="center"><strong>Galla Transport Technologies LLC</strong></h1>
+<h1 align="center"><strong>Tiger Transport</strong></h1>
+<p align="center"><em>Powered by Galla Transport Technologies LLC</em></p>
 
 Modern hardware and software logistics solutions engineered for school transportation, student accountability, and fleet operations.
 
@@ -24,7 +25,7 @@ Modern hardware and software logistics solutions engineered for school transport
 
 **Galla Transport Technologies LLC**  
 Macon, Missouri  
-*Contact:* support@gallatransporttechnologies.com
+*Contact:* gallatransporttechnologies@gmail.com
 
 <footer>
   <a href="/sitemap.xml">Sitemap</a>
